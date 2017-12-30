@@ -1,6 +1,11 @@
 # practice
 
 getting familiar with the git process
+why git is good
+-- keeps track of changes to code.
+-- Synchronizes code between different people.
+-- Test changes to code without losing the original.
+-- Revert back to old versions of code.
 
 below are some key command prompt to remember
 
@@ -17,7 +22,8 @@ git commit --- saves a change to repository, keep old version
 
 git status ---- what is happing in the repository
 
-git push --- sends the updated online
+git push origin master --- sends the updated online
+
 
 git pull --- retrieves changes for online
 
