@@ -43,21 +43,18 @@ one of them are substantial so you create a git add to the file
 this will move into the staging area, when git commit is executed 
 then only the files in staging will be saved into history
 
+#git command
+##below are some key command prompt to remember
 
-
-below are some key command prompt to remember
-
-git command
-
-git clone --- url of  a repository, store on computer, creates fork on line
-git add --- after clone, add to staging area
-git diff --- shows what change
-git commit --- saves a change to repository, keep old version
-      commit -am adds a a message
-git status ---- what is happing in the repository
-git push origin master --- sends the updated online
-git pull --- retrieves changes for online
-git log ---- history of the repository
-git reset --- roll back to a previous file,
-    git reset --hard <commit ie 4761626>  (code back to a previous commit)
-    get reset --hard origin
+* git clone --- url of  a repository, store on computer, creates fork on line* 
+* git add --- after clone, add to staging area
+* git diff --- shows what change
+* git commit --- saves a change to repository, keep old version
+      * commit -am adds a a message
+* git status ---- what is happing in the repository
+* git push origin master --- sends the updated online
+* git pull --- retrieves changes for online
+* git log ---- history of the repository
+* git reset --- roll back to a previous file,
+    * git reset --hard <commit ie 4761626>  (code back to a previous commit)
+    * get reset --hard origin
