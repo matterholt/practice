@@ -1,6 +1,15 @@
 # practice
+#**Project Name:**
+##Note for GIT
 
-NOTES FOR GIT
+##Description:
+##Table of Contents:
+##Installation:
+##Usage:
+##Contributing:
+##Credits:
+##License:
+
 
 getting familiar with the git process
 why git is good
@@ -13,7 +22,7 @@ Three states of the git
 	- committed means that the data is safely stored in your local database
 	- Modified means that you have changed file but have not committed it to you  	
 		database yet
-	-Staged means that you have marked a modified file in its current version to go into 		your next commit snapshot. 
+	-Staged means that you have marked a modified file in its current version to go into 		your next commit snapshot.
 
 
 FREE CodeCamp
@@ -40,13 +49,13 @@ metadata= who and what time
 —Why 2 step commit
 example you are working on 2 files
 one of them are substantial so you create a git add to the file
-this will move into the staging area, when git commit is executed 
+this will move into the staging area, when git commit is executed
 then only the files in staging will be saved into history
 
 #git command
 ##below are some key command prompt to remember
 
-* git clone --- url of  a repository, store on computer, creates fork on line* 
+* git clone --- url of  a repository, store on computer, creates fork on line*
 * git add --- after clone, add to staging area
 * git diff --- shows what change
 * git commit --- saves a change to repository, keep old version
